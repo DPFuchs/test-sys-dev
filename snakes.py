@@ -1,7 +1,7 @@
 import random
 
 position = 0
-snakes = [11,21,56, 78]
+snakes = [11,21,66, 78]
 sp = [7, 3, 23, 12]
 ladders = [3, 32, 50, 65]
 lp = [5, 10, 20, 10]
